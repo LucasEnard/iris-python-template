@@ -1,4 +1,4 @@
-## iris-interoperability-template
+## iris-python-template
 This is a template of InterSystems IRIS Interoperability full Python.
 
 ## What The Sample Does
